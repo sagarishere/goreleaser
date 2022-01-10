@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	code.gitea.io/sdk/gitea v0.15.0
-	github.com/DisgoOrg/disgohook v1.4.3
+	github.com/DisgoOrg/disgohook v1.4.4
 	github.com/Masterminds/semver/v3 v3.1.1
 	github.com/alecthomas/jsonschema v0.0.0-20211022214203-8b29eab41725
 	github.com/apex/log v1.9.0
@@ -54,7 +54,7 @@ require (
 	github.com/Azure/go-autorest/logger v0.2.1 // indirect
 	github.com/Azure/go-autorest/tracing v0.6.0 // indirect
 	github.com/DisgoOrg/log v1.1.0 // indirect
-	github.com/DisgoOrg/restclient v1.2.7 // indirect
+	github.com/DisgoOrg/restclient v1.2.8 // indirect
 	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver v1.5.0 // indirect
 	github.com/Masterminds/sprig v2.22.0+incompatible // indirect
